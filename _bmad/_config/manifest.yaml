@@ -1,0 +1,31 @@
+installation:
+  version: 6.12.4
+  installDate: 2026-11-17T14:25:58.245Z
+  lastUpdated: 2026-11-17T14:25:58.245Z
+  installShims: false
+modules:
+  - name: core
+    version: 6.12.4
+    installDate: 2026-11-17T14:25:57.930Z
+    lastUpdated: 2026-11-17T14:25:58.240Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmm
+    version: 6.12.4
+    installDate: 2026-11-17T14:25:58.147Z
+    lastUpdated: 2026-11-17T14:25:58.241Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmad-loop
+    version: v0.13.2
+    installDate: 2026-11-17T14:25:58.180Z
+    lastUpdated: 2026-11-17T14:25:58.245Z
+    source: external
+    npmPackage: null
+    repoUrl: https://github.com/bmad-code-org/bmad-loop
+    channel: stable
+    sha: 4a5c45390ff46c0fc28d316004ffe0ed7c8eea60
+ides:
+  - github-copilot

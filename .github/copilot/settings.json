@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "hooks": {
+    "agentStop": [
+      {
+        "type": "command",
+        "command": "C:/Users/rosol/AppData/Roaming/uv/tools/bmad-loop/Scripts/bmad-loop.exe relay Stop",
+        "timeoutSec": 60
+      }
+    ],
+    "sessionStart": [
+      {
+        "type": "command",
+        "command": "C:/Users/rosol/AppData/Roaming/uv/tools/bmad-loop/Scripts/bmad-loop.exe relay SessionStart",
+        "timeoutSec": 60
+      }
+    ],
+    "sessionEnd": [
+      {
+        "type": "command",
+        "command": "C:/Users/rosol/AppData/Roaming/uv/tools/bmad-loop/Scripts/bmad-loop.exe relay SessionEnd",
+        "timeoutSec": 60
+      }
+    ]
+  }
+}
