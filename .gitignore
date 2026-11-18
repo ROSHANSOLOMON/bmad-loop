@@ -2,3 +2,10 @@
 .bmad-loop/cache/
 .bmad-loop/policy.toml
 _bmad/render/
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
