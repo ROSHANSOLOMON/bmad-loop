@@ -1,0 +1,8 @@
+[2026-11-19 15:06:47] CRITICAL escalation: 1-2-implement-subtract-function: CRITICAL escalation from dev session: generic dev session reported a blocked outcome — resolve, then `bmad-loop resume 20261119-145748-5d52`
+[2026-11-19 15:06:57] bmad-loop run finished: run 20261119-145748-5d52: 0 done, 0 deferred, 1 escalated, 0 tokens
+PAUSED: CRITICAL escalation from dev session: generic dev session reported a blocked outcome
+[2026-11-19 16:00:01] bmad-loop run finished: run 20261119-145748-5d52: 0 done, 0 deferred, 1 escalated, 0 tokens
+PAUSED: story '1-2-implement-subtract-function' is still escalated — run `bmad-loop resolve 20261119-145748-5d52`
+[2026-11-19 16:07:20] uncommitted changes parked on resume for 1-2-implement-subtract-function: resume reset 1-2-implement-subtract-function to its baseline 3916e3655a9a; its uncommitted changes were parked on `refs/attempt-preserve-dirty/20261119-145748-5d52-3916e365-0` first, a snapshot commit on top of the attempt's HEAD. Inspect: `git -C "C:\Users\rosol\OneDrive\Desktop\bmad-15min-demo" diff refs/attempt-preserve-dirty/20261119-145748-5d52-3916e365-0~1 refs/attempt-preserve-dirty/20261119-145748-5d52-3916e365-0`; To restore what you want to keep once this run has stopped or finished (it is re-running the story in this checkout now): `git -C "C:\Users\rosol\OneDrive\Desktop\bmad-15min-demo" restore --source=refs/attempt-preserve-dirty/20261119-145748-5d52-3916e365-0 -- <path>`.
+[2026-11-19 16:13:56] epic 1 stories complete: retrospective suggested: run /bmad-retrospective when convenient
+[2026-11-19 16:14:06] bmad-loop run finished: run 20261119-145748-5d52: 1 done, 0 deferred, 0 escalated, 0 tokens

@@ -1,0 +1,15 @@
+{
+  "story_key": "1-2-implement-subtract-function",
+  "run_id": "20261119-145748-5d52",
+  "project_root": "C:/Users/rosol/OneDrive/Desktop/bmad-15min-demo",
+  "code_root": "C:/Users/rosol/OneDrive/Desktop/bmad-15min-demo",
+  "spec_file": null,
+  "baseline_commit": "fe51f0e10bcd9d9a0bed29eb39b3d1698aef750f",
+  "paused_reason": "story '1-2-implement-subtract-function' is still escalated \u2014 run `bmad-loop resolve 20261119-145748-5d52`",
+  "env_fault_site": null,
+  "escalations": [],
+  "resolution_path": "C:/Users/rosol/OneDrive/Desktop/bmad-15min-demo/.bmad-loop/runs/20261119-145748-5d52/resolve/1-2-implement-subtract-function/resolution.json",
+  "restore_supported": false,
+  "spec_reaches_the_redrive": null,
+  "redrive_base_ref": "HEAD"
+}

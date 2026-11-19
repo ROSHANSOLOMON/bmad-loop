@@ -1,0 +1,6 @@
+{
+  "story_key": "1-2-implement-subtract-function",
+  "decision": "For numeric inputs, implement subtract(a, b) in calculator.py as a - b, with no added input validation or special-case handling; add a unit test asserting subtract(10, 5) returns 5.",
+  "spec_file": "C:\\Users\\rosol\\OneDrive\\Desktop\\bmad-15min-demo\\requirement.md",
+  "spec_updated": true
+}

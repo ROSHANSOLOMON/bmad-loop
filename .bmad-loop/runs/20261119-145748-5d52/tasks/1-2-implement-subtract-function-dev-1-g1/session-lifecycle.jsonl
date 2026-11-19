@@ -1,0 +1,3 @@
+{"ts": 1795084704558722400, "event": "hook-lineage-untrusted", "reason": "unavailable", "lineage": "unknown"}
+{"ts": 1795084955463684400, "event": "contract-nudge-sent", "spec": "C:\\Users\\rosol\\OneDrive\\Desktop\\bmad-15min-demo\\_bmad-output\\implementation-artifacts\\spec-1-2-implement-subtract-function.md", "status": "done"}
+{"ts": 1795085027420989600, "event": "frontmatter-synthesized", "spec": "C:\\Users\\rosol\\OneDrive\\Desktop\\bmad-15min-demo\\_bmad-output\\implementation-artifacts\\spec-1-2-implement-subtract-function.md", "status": "done", "dead_window": false, "transition": false}

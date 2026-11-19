@@ -1,7 +1,4 @@
-# BMAD Loop runtime files
-.bmad-loop/runs/
-.bmad-loop/cache/
-.bmad-loop/policy.toml
+
 
 # BMAD generated render files
 _bmad/render/
@@ -13,5 +10,3 @@ __pycache__/
 # Virtual environments
 venv/
 .venv/
-
-_bmad-output/implementation-artifacts/bmad-build-auto-result-*.md
