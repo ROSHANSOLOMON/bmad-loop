@@ -7,4 +7,5 @@ story_location: _bmad-output/implementation-artifacts
 development_status:
   epic-1: in-progress
   1-1-implement-multiply-function: done
+  1-2-implement-subtract-function: backlog
   epic-1-retrospective: optional
